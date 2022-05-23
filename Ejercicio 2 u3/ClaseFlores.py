@@ -19,5 +19,3 @@ class Flores:
     def getColor(self):
         return self.__color
         
-
-
